@@ -55,12 +55,14 @@ The system supports features like:
 
 ### Install Dependecies
 mac: brew install fltk sqlite3 openssl
+
 Windows (MinGW):
 Download and install FLTK, SQLite3, and OpenSSL libraries
 
 ### Compile
 MacOs: g++ -std=c++11 file_name.cpp -lfltk -lsqlite3 -lcrypto -o exam_system
 ./exam_system
+
 Windows: g++ -std=c++11 file_name.cpp -mwindows -lfltk -lsqlite3 -lcrypto -o exam_system.exe
 exam_system.exe
 
