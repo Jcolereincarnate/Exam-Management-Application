@@ -1,0 +1,279 @@
+Q: What does DBMS stand for?
+A: Data Binary Management System
+B: Database Management System
+C: Data Backup Management System
+D: Data Basic Management System
+ANSWER: B
+
+Q: Which of the following is a type of DBMS?
+A: Hierarchical
+B: Network
+C: Relational
+D: All of the above
+ANSWER: D
+
+Q: Which SQL statement is used to retrieve data from a database?
+A: SELECT
+B: GET
+C: RETRIEVE
+D: FETCH
+ANSWER: A
+
+Q: Which key uniquely identifies a record in a table?
+A: Foreign Key
+B: Primary Key
+C: Candidate Key
+D: Composite Key
+ANSWER: B
+
+Q: Which SQL statement is used to remove all records from a table without deleting the table itself?
+A: DELETE
+B: DROP
+C: TRUNCATE
+D: REMOVE
+ANSWER: C
+
+Q: In a relational database, a relation is also called a:
+A: Field
+B: Tuple
+C: Table
+D: Attribute
+ANSWER: C
+
+Q: Which constraint ensures that a column cannot have NULL values?
+A: UNIQUE
+B: NOT NULL
+C: PRIMARY KEY
+D: FOREIGN KEY
+ANSWER: B
+
+Q: What is the purpose of a foreign key in a table?
+A: To uniquely identify each record in the table
+B: To create a link between two tables
+C: To prevent NULL values
+D: To sort data in ascending order
+ANSWER: B
+
+Q: Which of the following is a NoSQL database?
+A: MySQL
+B: MongoDB
+C: Oracle
+D: PostgreSQL
+ANSWER: B
+
+Q: Which command is used to update existing data in a table?
+A: INSERT
+B: MODIFY
+C: UPDATE
+D: ALTER
+ANSWER: C
+
+Q: Which of the following is an aggregate function in SQL?
+A: SUM()
+B: COUNT()
+C: AVG()
+D: All of the above
+ANSWER: D
+
+Q: What type of relationship exists when one record in a table relates to many records in another table?
+A: One-to-One
+B: One-to-Many
+C: Many-to-One
+D: Many-to-Many
+ANSWER: B
+
+Q: Which command is used to delete a table entirely?
+A: REMOVE TABLE
+B: DELETE TABLE
+C: DROP TABLE
+D: ERASE TABLE
+ANSWER: C
+
+Q: In normalization, which normal form eliminates transitive dependency?
+A: 1NF
+B: 2NF
+C: 3NF
+D: BCNF
+ANSWER: C
+
+Q: What does ACID stand for in DBMS?
+A: Atomicity, Consistency, Isolation, Durability
+B: Accuracy, Control, Integrity, Data
+C: Atomicity, Control, Isolation, Data
+D: Accuracy, Consistency, Isolation, Durability
+ANSWER: A
+
+Q: Which type of JOIN returns all records from the left table and matched records from the right table?
+A: INNER JOIN
+B: LEFT JOIN
+C: RIGHT JOIN
+D: FULL JOIN
+ANSWER: B
+
+Q: Which of the following is a database model?
+A: Hierarchical
+B: Network
+C: Relational
+D: All of the above
+ANSWER: D
+
+Q: Which SQL keyword is used to prevent duplicate values in a column?
+A: UNIQUE
+B: PRIMARY
+C: DISTINCT
+D: NOT NULL
+ANSWER: A
+
+Q: What is the default sorting order of the ORDER BY clause in SQL?
+A: DESC
+B: RANDOM
+C: ASC
+D: NONE
+ANSWER: C
+
+Q: Which SQL statement is used to add a new column to an existing table?
+A: ADD COLUMN
+B: ALTER TABLE
+C: MODIFY TABLE
+D: UPDATE TABLE
+ANSWER: B
+
+Q: Which SQL clause is used to filter records based on a condition?
+A: WHERE
+B: HAVING
+C: FILTER
+D: CONDITION
+ANSWER: A
+
+Q: Which SQL clause is used to group rows that have the same values?
+A: GROUP BY
+B: ORDER BY
+C: HAVING
+D: DISTINCT
+ANSWER: A
+
+Q: Which SQL keyword is used to eliminate duplicate rows in the result set?
+A: UNIQUE
+B: DISTINCT
+C: DIFFERENT
+D: ONLY
+ANSWER: B
+
+Q: In a database, a field is also known as a:
+A: Row
+B: Column
+C: Table
+D: Record
+ANSWER: B
+
+Q: What type of JOIN returns only the rows that have matching values in both tables?
+A: INNER JOIN
+B: LEFT JOIN
+C: RIGHT JOIN
+D: FULL JOIN
+ANSWER: A
+
+Q: Which command is used to remove all rows from a table but keep the table structure?
+A: DROP
+B: DELETE
+C: TRUNCATE
+D: REMOVE
+ANSWER: C
+
+Q: In DBMS, which level of data abstraction describes how the data is stored in the database?
+A: Physical level
+B: Logical level
+C: View level
+D: External level
+ANSWER: A
+
+Q: Which SQL statement is used to create a new table?
+A: CREATE DATABASE
+B: CREATE TABLE
+C: ADD TABLE
+D: NEW TABLE
+ANSWER: B
+
+Q: Which of the following is a characteristic of a relational database?
+A: Data is stored in tables
+B: Tables have rows and columns
+C: Relationships between tables are defined using keys
+D: All of the above
+ANSWER: D
+
+Q: Which SQL keyword is used to sort the result set?
+A: SORT BY
+B: ORDER BY
+C: GROUP BY
+D: ARRANGE BY
+ANSWER: B
+
+Q: In a many-to-many relationship, which database structure is used to link two tables?
+A: Junction table
+B: Primary key
+C: Foreign key
+D: Index
+ANSWER: A
+
+Q: Which SQL statement is used to change existing data in a table?
+A: MODIFY
+B: UPDATE
+C: ALTER
+D: CHANGE
+ANSWER: B
+
+Q: Which of the following is true about a primary key?
+A: It allows duplicate values
+B: It can contain NULL values
+C: It uniquely identifies each record
+D: It is optional in a table
+ANSWER: C
+
+Q: Which SQL clause is used to specify conditions on aggregate functions?
+A: WHERE
+B: HAVING
+C: GROUP BY
+D: ORDER BY
+ANSWER: B
+
+Q: In normalization, which normal form eliminates partial dependency?
+A: 1NF
+B: 2NF
+C: 3NF
+D: BCNF
+ANSWER: B
+
+Q: Which SQL keyword is used to combine rows from two or more tables based on a related column?
+A: JOIN
+B: UNION
+C: MERGE
+D: COMBINE
+ANSWER: A
+
+Q: Which of the following is a disadvantage of a DBMS?
+A: Data redundancy
+B: Data inconsistency
+C: Cost of installation and maintenance
+D: Multiple users can access data
+ANSWER: C
+
+Q: Which SQL command is used to remove a column from a table?
+A: DROP COLUMN
+B: REMOVE COLUMN
+C: DELETE COLUMN
+D: ALTER TABLE DROP COLUMN
+ANSWER: D
+
+Q: What is the result of a CROSS JOIN?
+A: Only matching rows from both tables
+B: All possible combinations of rows from both tables
+C: Only rows from the first table
+D: Only rows from the second table
+ANSWER: B
+
+Q: Which of the following is a feature of a DBMS?
+A: Data security
+B: Data integrity
+C: Data independence
+D: All of the above
+ANSWER: D

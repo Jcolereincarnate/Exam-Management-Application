@@ -80,3 +80,16 @@ exam_system.exe
  * C: 5
  * D: 6
  * ANSWER: B
+
+ On Windows install
+
+ 1. MinGW-w64
+ 2. FLTK
+ 3. SQLite
+ 4. OpenSSL
+ 
+
+ Installation
+ Run : mingw32-make
+ To run program: mingw32-make
+ To clean everything: mingw32-make cleanall
